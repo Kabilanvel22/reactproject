@@ -1,0 +1,51 @@
+[
+    {
+        "userId":1,
+        "name":"kabilan . v",
+        "degree": "B.TECH",
+        "branch": "IT",
+        "skills": "full stack developer"
+    },
+    {
+        "userId":2,
+        "name":"karthick . v",
+        "degree": "B.TECH",
+        "branch": "IT",
+        "skills": "block chain"
+    },
+    {
+        "userId":3,
+        "name":"jeyamuthu .G",
+        "degree": "B.TECH",
+        "branch": "IT",
+        "skills": "java developer"
+    },
+    {
+        "userId":4,
+        "name":"hariharan .A",
+        "degree": "B.TECH",
+        "branch": "IT",
+        "skills": "IOT"
+    },
+    {
+        "userId":5,
+        "name":"aravind.S",
+        "degree": "B.TECH",
+        "branch": "IT",
+        "skills": "python developer"
+    },
+    {
+        "userId":6,
+        "name":"mohan .M",
+        "degree": "B.TECH",
+        "branch": "IT",
+        "skills": "front-end developer"
+    },
+    {
+        "userId":7,
+        "name":"abhiram.A",
+        "degree": "B.TECH",
+        "branch": "IT",
+        "skills": "back-end developer"
+    }
+]
